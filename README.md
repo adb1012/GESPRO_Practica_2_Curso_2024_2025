@@ -19,10 +19,10 @@ Alejandro Diez Bermejo
       2.	Acceder al repositorio: Proporciona el enlace al repositorio y se unen todos los del grupo, comparte el enlace el creador del proyecto.
       3.	Se crea el README y la estructura
 
-  ZenHub:
-    1.	Instalar la extensión: Se descarga e instala la extensión para navegadores desde ZenHub.
-    2.	Conectar con GitHub: Una vez instalada, abre el repositorio en GitHub y accede al tablero de ZenHub desde el botón en la interfaz de GitHub.
-    3.	Acceso al tablero de tareas: Se usa la vista de Board para navegar entre columnas y tareas.
+   ZenHub:
+      1.	Instalar la extensión: Se descarga e instala la extensión para navegadores desde ZenHub.
+      2.	Conectar con GitHub: Una vez instalada, abre el repositorio en GitHub y accede al tablero de ZenHub desde el botón en la interfaz de GitHub.
+      3.	Acceso al tablero de tareas: Se usa la vista de Board para navegar entre columnas y tareas.
 ________________________________________
 3. Interacción básica
 
