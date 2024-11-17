@@ -26,28 +26,28 @@ Alejandro Diez Bermejo
 ________________________________________
 3. Interacción básica
 
-  En GitHub:
-    1.	Crear y revisar issues: Se crea y revisa los problemas abiertos (issues) en la pestaña correspondiente para entender las tareas pendientes.
-    2.	Contribuir a tareas: Hemos comentado, asignado miembros del equipo o actualizado estados en las issues según sea necesario.
+   En GitHub:
+      1.	Crear y revisar issues: Se crea y revisa los problemas abiertos (issues) en la pestaña correspondiente para entender las tareas pendientes.
+      2.	Contribuir a tareas: Hemos comentado, asignado miembros del equipo o actualizado estados en las issues según sea necesario.
 
-  En ZenHub:
-    1.	Ver epics y tareas: Usa los filtros para buscar Epics, User stories y Tasks.
-    2.	Gestionar sprints: Las columnas del tablero representan las fases del sprint (To Do, In Progress, Done). Hemos movido tareas entre ellas según el progreso.
-    3.	Añadir estimaciones: Cada tarea tiene una estimación de esfuerzo (en puntos) para ayudar a planificar el sprint.
+   En ZenHub:
+      1.	Ver epics y tareas: Usa los filtros para buscar Epics, User stories y Tasks.
+      2.	Gestionar sprints: Las columnas del tablero representan las fases del sprint (To Do, In Progress, Done). Hemos movido tareas entre ellas según el progreso.
+      3.	Añadir estimaciones: Cada tarea tiene una estimación de esfuerzo (en puntos) para ayudar a planificar el sprint.
 ________________________________________
 4. Ejemplo práctico
 
-    1.	Abre el tablero en ZenHub.
-    2.	Filtra por epics para identificar la funcionalidad principal en desarrollo.
-    3.	Selecciona una tarea del sprint actual en la columna "To Do".
-    4.	Actualiza su estado moviéndola a "In Progress" cuando comiences a trabajar.
-    5.	Añade un comentario en la tarea para registrar cambios o discusiones relevantes.
+   1.	Abre el tablero en ZenHub.
+   2.	Filtra por epics para identificar la funcionalidad principal en desarrollo.
+   3.	Selecciona una tarea del sprint actual en la columna "To Do".
+   4.	Actualiza su estado moviéndola a "In Progress" cuando comiences a trabajar.
+   5.	Añade un comentario en la tarea para registrar cambios o discusiones relevantes.
 ________________________________________
 5. Para buenas prácticas
 
-  •	Hay que mantener actualizado el estado de las tareas en el tablero.
-  •	Usar comentarios para documentar decisiones importantes.
-  •	Realizar revisiones de código en pull requests antes de fusionar cambios.
+   •	Hay que mantener actualizado el estado de las tareas en el tablero.
+   •	Usar comentarios para documentar decisiones importantes.
+   •	Realizar revisiones de código en pull requests antes de fusionar cambios.
 
 
 
