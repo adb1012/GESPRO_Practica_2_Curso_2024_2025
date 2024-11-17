@@ -10,8 +10,10 @@ Alejandro Diez Bermejo
 
 ## Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
 1. Introducción al proyecto
+
    Este proyecto está diseñado para simular una planificación ágil de tareas en un entorno de desarrollo colaborativo. Utilizamos GitHub para la gestión del código y ZenHub para organizar las tareas en      epics, historias de usuario y tareas específicas.
 2. Configuración inicial
+   
    GitHub:
       1.	Crear una cuenta: Accede a GitHub y  nos registramos los que no tenemos cuenta y con el Gmail de la ubu.
       2.	Acceder al repositorio: Proporciona el enlace al repositorio y se unen todos los del grupo, comparte el enlace el creador del proyecto.
