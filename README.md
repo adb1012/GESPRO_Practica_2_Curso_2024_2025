@@ -11,10 +11,17 @@ Alejandro Diez Bermejo
 ## Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub.
 - **Etiquetas**:
 
-## Filtro por Epics, US y Tasks en la columna de New Issues 
+## Filtro por Epics, US y Tasks en la columna de New Issues
+### Filtro por Epics
+Se establece el filtro de label como "Type: Epic", para mostrar solo las issues que tienen la etiqueta de Epic.
 ![1](https://github.com/user-attachments/assets/f0c9aedc-004f-4d45-8af6-eff35071f09b)
+### Filtro por US
+Se establece el filtro de label como "Type: User Story", para mostrar solo las issues que tienen la etiqueta de User Story.
 ![2](https://github.com/user-attachments/assets/d196a97c-205f-4356-8166-cf460a9e290c)
+### Filtro por Tasks
+Se establece el filtro de label como "Type: Task", para mostrar solo las issues que tienen la etiqueta de Task.
 ![3](https://github.com/user-attachments/assets/c33417b0-171e-45d0-bab5-effe190e8538)
+### Definiciones
 - **Epics**: Requisitos ágiles que representa a un conjunto de trabajo grande, agrupando tareas realcionadas dentro del trabajo.
 - **Historias de usuario**: descripción breve y clara del valor que un producto o servicio debe aportar al usuario final, escrita desde su perspectiva. Se crea durante conversaciones entre desarrolladores y el propietario del producto para alinear la visión y recordar acuerdos.
 - **Tareas**: unidades de trabajo pequeñas, que deben completarse para cumplir con una historia.
