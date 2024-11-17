@@ -18,21 +18,25 @@ Alejandro Diez Bermejo
       1.	Crear una cuenta: Accede a GitHub y  nos registramos los que no tenemos cuenta y con el Gmail de la ubu.
       2.	Acceder al repositorio: Proporciona el enlace al repositorio y se unen todos los del grupo, comparte el enlace el creador del proyecto.
       3.	Se crea el README y la estructura
+
   ZenHub:
     1.	Instalar la extensión: Se descarga e instala la extensión para navegadores desde ZenHub.
     2.	Conectar con GitHub: Una vez instalada, abre el repositorio en GitHub y accede al tablero de ZenHub desde el botón en la interfaz de GitHub.
     3.	Acceso al tablero de tareas: Se usa la vista de Board para navegar entre columnas y tareas.
 ________________________________________
 3. Interacción básica
+
   En GitHub:
     1.	Crear y revisar issues: Se crea y revisa los problemas abiertos (issues) en la pestaña correspondiente para entender las tareas pendientes.
     2.	Contribuir a tareas: Hemos comentado, asignado miembros del equipo o actualizado estados en las issues según sea necesario.
+
   En ZenHub:
     1.	Ver epics y tareas: Usa los filtros para buscar Epics, User stories y Tasks.
     2.	Gestionar sprints: Las columnas del tablero representan las fases del sprint (To Do, In Progress, Done). Hemos movido tareas entre ellas según el progreso.
     3.	Añadir estimaciones: Cada tarea tiene una estimación de esfuerzo (en puntos) para ayudar a planificar el sprint.
 ________________________________________
 4. Ejemplo práctico
+
     1.	Abre el tablero en ZenHub.
     2.	Filtra por epics para identificar la funcionalidad principal en desarrollo.
     3.	Selecciona una tarea del sprint actual en la columna "To Do".
@@ -40,6 +44,7 @@ ________________________________________
     5.	Añade un comentario en la tarea para registrar cambios o discusiones relevantes.
 ________________________________________
 5. Para buenas prácticas
+
   •	Hay que mantener actualizado el estado de las tareas en el tablero.
   •	Usar comentarios para documentar decisiones importantes.
   •	Realizar revisiones de código en pull requests antes de fusionar cambios.
