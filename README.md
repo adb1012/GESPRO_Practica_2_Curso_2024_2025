@@ -46,7 +46,9 @@ ________________________________________
 5. Para buenas prácticas
 
    •	Hay que mantener actualizado el estado de las tareas en el tablero.
+   
    •	Usar comentarios para documentar decisiones importantes.
+   
    •	Realizar revisiones de código en pull requests antes de fusionar cambios.
 
 
