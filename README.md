@@ -18,6 +18,8 @@ Alejandro Diez Bermejo
       1.	Crear una cuenta: Accede a GitHub y  nos registramos los que no tenemos cuenta y con el Gmail de la ubu.
       2.	Acceder al repositorio: Proporciona el enlace al repositorio y se unen todos los del grupo, comparte el enlace el creador del proyecto.
       3.	Se crea el README y la estructura
+      4.	Se activa la opción de issues en la configuración general del proyecto.
+         <img width="813" alt="Screenshot 2024-11-18 at 17 28 36" src="https://github.com/user-attachments/assets/4e107414-d6c8-49ce-87a2-14768199634b">
 
    ZenHub:
       1.	Instalar la extensión: Se descarga e instala la extensión para navegadores desde ZenHub.
