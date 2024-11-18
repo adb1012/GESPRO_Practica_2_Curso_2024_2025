@@ -69,7 +69,8 @@ Se establece el filtro de label como "Type: Task", para mostrar solo las issues 
 - **Epics**: Requisitos ágiles que representa a un conjunto de trabajo grande, agrupando tareas realcionadas dentro del trabajo.
 - **Historias de usuario**: descripción breve y clara del valor que un producto o servicio debe aportar al usuario final, escrita desde su perspectiva. Se crea durante conversaciones entre desarrolladores y el propietario del producto para alinear la visión y recordar acuerdos.
 - **Tareas**: unidades de trabajo pequeñas, que deben completarse para cumplir con una historia.
-
+- **Etiquetas**: son palabras clave o categorías asignadas a elementos del trabajo, como tareas o historias de usuario, para clasificarlos o agruparlos de manera lógica. 
+- **Sprint**:  es un intervalo de tiempo fijo durante el cual el equipo ágil se enfoca en completar un conjunto específico de trabajo previamente planificado
 ## Tareas de 1er Release en el Sprint Backlog
 ![4_1](https://github.com/user-attachments/assets/6524ff6c-700e-4f4d-9c48-e8e52e915f60)
 ![4_2](https://github.com/user-attachments/assets/8ef04d23-f362-4b37-906e-7ca52dee9266)
