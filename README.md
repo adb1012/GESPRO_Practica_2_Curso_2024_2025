@@ -90,3 +90,4 @@ Se establece el filtro de label como "Type: Task", para mostrar solo las issues 
 
 ## Imagen de conversación en dos tareas 
 ![image](https://github.com/user-attachments/assets/dc2337fa-ca8a-486b-9dac-3563304ded6a)
+![image](https://github.com/user-attachments/assets/7d9cd2ef-f711-4c2a-93e4-86fab154735d)
